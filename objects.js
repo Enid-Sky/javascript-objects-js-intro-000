@@ -1,4 +1,4 @@
-var playlist = {dolls: 'song'};
+var playlist = {prince: 'purple rain'};
 
 
 
