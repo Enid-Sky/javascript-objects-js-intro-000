@@ -1,4 +1,6 @@
-var playlist = {artist: 'song'};
+var playlist = {dolls: 'song'};
+
+
 
 
 /*
