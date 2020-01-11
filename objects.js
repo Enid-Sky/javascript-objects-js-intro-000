@@ -1,7 +1,7 @@
 var playlist = {prince: 'purple rain'};
 
 function updatePlaylist (playlist, artist, song) {
-  obj[artist] = 'song';
+  playlist[artist] = song;
   return playlist;
 }
 
