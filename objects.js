@@ -1,1 +1,1 @@
-var playlist = {googooDolls: 'pin'};
+var playlist = {artist: 'song'};
