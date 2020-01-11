@@ -1,5 +1,10 @@
 var playlist = {prince: 'purple rain'};
 
+function updatePlatlist (obj, artist, song) {
+  obj[artist] = song;
+  return playlist;
+}
+
 
 
 
